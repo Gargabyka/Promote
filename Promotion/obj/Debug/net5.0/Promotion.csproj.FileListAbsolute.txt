@@ -1,0 +1,16 @@
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\Promotion.exe
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\Promotion.deps.json
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\Promotion.runtimeconfig.json
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\Promotion.runtimeconfig.dev.json
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\Promotion.dll
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\ref\Promotion.dll
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\bin\Debug\net5.0\Promotion.pdb
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.csprojAssemblyReference.cache
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.AssemblyInfoInputs.cache
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.AssemblyInfo.cs
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.csproj.CoreCompileInputs.cache
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.dll
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\ref\Promotion.dll
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.pdb
+C:\Users\Nata\Downloads\Work\C#\TinyLibrary\Promotion\Promotion\Promotion\obj\Debug\net5.0\Promotion.genruntimeconfig.cache
